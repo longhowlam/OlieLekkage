@@ -14,9 +14,9 @@ defects_descr = read_csv("Open_Data_RDW__Gebreken.csv")
 #)
 
 ### split in three because then it fits on GIT
-cars_basisdata1 = readRDS("cars_basisdata1.RDs")
-cars_basisdata2 = readRDS("cars_basisdata2.RDs")
-cars_basisdata3 = readRDS("cars_basisdata3.RDs")
+cars_basisdata1 = readRDS("data/cars_basisdata1.RDs")
+cars_basisdata2 = readRDS("data/cars_basisdata2.RDs")
+cars_basisdata3 = readRDS("data/cars_basisdata3.RDs")
 
 cars_basisdata = bind_rows(cars_basisdata3, cars_basisdata2, cars_basisdata1)
 
