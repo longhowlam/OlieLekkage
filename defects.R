@@ -5,7 +5,6 @@ library(dplyr)
 library(ggplot2)
 
 ## Import open car data from RDW 
-defects = read_csv("Open_Data_RDW__Geconstateerde_Gebreken.csv")
 defects_descr = read_csv("Open_Data_RDW__Gebreken.csv")
 
 #cars_basisdata = read_csv(
@@ -20,6 +19,13 @@ cars_basisdata3 = readRDS("data/cars_basisdata3.RDs")
 
 cars_basisdata = bind_rows(cars_basisdata3, cars_basisdata2, cars_basisdata1)
 
+defects1 = readRDS("data/defects1.RDs")
+defects2 = readRDS("data/defects2.RDs")
+defects3 = readRDS("data/defects3.RDs")
+defects = bind_rows(defects1, defects2, defects3)
+
+rm(cars_basisdata1, cars_basisdata2, cars_basisdata3)
+rm(defects1, defects2, defects3)
 
 ## determin age of car
 cars_basisdata = cars_basisdata %>%
