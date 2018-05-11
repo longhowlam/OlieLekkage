@@ -1,6 +1,5 @@
 Gebrek identificatie,Ingangsdatum gebrek,Einddatum gebrek,Gebrek paragraaf nummer,Gebrek artikel nummer,Gebrek omschrijving
 O01,20100227,20160103,14,REK 24&25,Kofferdeksel kan niet geopend worden REK art. 24 & 25
-D05,20100227,20150331,3,5.5.11,Geluidproductie driewieler 5.5.11
 O04,20100227,20160103,14,REK 24&25,Brandstofdop kan niet gecontroleerd worden REK art. 24 & 25
 O05,20100227,20160103,14,REK 24&25,Trekhaaksierdop kan niet verwijderd worden REK art. 24 & 25
 O03,20100227,20160103,14,REK 24&25,Wieldeksels kunnen niet verwijderd worden REK art. 24 & 25
@@ -208,10 +207,7 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 566,20170401,,,5.*.55,Richtingaanwijzers en glas lichtarmatuur ernstig beschadigd
 008,20170401,,,nl05,VIN in kentekenregister wijkt af t.o.v. VIN in voertuig
 725,20170401,,,1.13.A,LPG-onderdelen >5cm en <= 10 cm van hittbron
-726,20170401,,,1.12.A,LPG-onderdelen laagste punt van voertuig
 591,20170401,,,5.*.59a,Verlichting asymmetrisch t.o.v. het midden
-801,20170401,,,1.24.J,Gasleiding/gasslang >40cm door kokerbalk
-687,20170401,,,5.*.77,Lift functioneert niet
 069,20170401,,,5.*.6,Kopstraal oplegger meer dan toegestaan
 651,20170401,,,5.*.68,Trekoog hersteld door lassen/oplassen
 629,20170401,,,5.*.66,Trekdriehoek te veel vervormd
@@ -259,7 +255,6 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 070,20170401,,,5.*.6,Lengte van het voertuig meer dan toegestaan
 380,20170401,,,5.*.41,"Roestschade deurstijl, scharnier, slot"
 094,20170401,,,5.*.10,Andere verbruikers op LPG-installatie aangesloten
-821,20170401,,,1.28.D,Elektr. bedrading niet afdoende tegen beschadiging beschermd
 395,20170401,,,5.*.44,Voorruitontdooiing en ontwaseming werkt niet
 655,20170401,,,5.*.69,Onvlakheid schotelkoppeling te groot
 638,20170401,,,5.*.68,Radiale speling in onderste bus te groot
@@ -304,7 +299,6 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 799,20170401,,,1.24.H,Bevestiging gasleiding/gasslang onjuist (afstand te groot)
 382,20170401,,,5.*.41,Bevestiging slot/scharnier deur/motorkap/kofferdeksel ondeug
 241,20170401,,,5.*.28,Schokdemper werkt niet (goed)
-107,20170401,,,5.*.10a,Automatische tankafsluiter werkt niet (goed)
 269,20170401,,,5.*.30,Voorvork heeft zwaar punt bij verdraaien
 399,20170401,,,5.*.45,Gezichtsveldverbeterende voorziening werkt niet (goed)
 113,20170401,,,5.*.11,Geluidsniveau hoger dan toegestaan
@@ -322,22 +316,18 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 009,20170401,,,nl06,VIN in voertuig is (gedeeltelijk) niet leesbaar/ontbreekt
 526,20170401,,,5.*.62,Mistlicht controlelampje ontbreekt/defect
 397,20170401,,,5.*.44,Voorruitontdooiing en ontwaseming ontbreekt
-836,20170401,,,GR2,Afkeurpunt met gradatie 2
 324,20170401,,,5.*.31,Onderdelen antiblokkeersysteem ondeugdelijk bevestigd
 842,20170401,,,TA.3B,Onjuist registratieblad/printpapier gebruikt.
 227,20170401,,,5.*.28,Veerbevestiging ondeugdelijk
 490,20170401,,,5.*.53,Achteruitrijlicht kleur wijkt af of niet toegestaan
 658,20170401,,,5.*.69,Koppelingspen te veel gesleten
-613,20170401,,,5.*.57,Verlichte transparant(en) voldoet niet aan maximale afmeting
 887,20170401,20170402,,APK+F3,"Geen AC3: Roestschade 1,5 t/m 2,0E/meer dan 15% dikteafname"
 554,20170401,,,5.*.55,Remlicht schakelaar ondeugdelijk
-828,20170401,,,BTML.C,Documentatie van de installatie ontbreekt (G3/R115)
 661,20170401,,,5.*.69,Opleggerkoppeling ondeugdelijk bevestigd
 894,20170401,,,TA.6A,Wegdraaital wijkt af > 2% -<=4% af.
 515,20170401,,,5.*.51,"Dim-, grootlicht ontbreekt"
 041,20170401,,,5.*.3,Roestschade subframe
 581,20170401,,,5.*.53,Stadslicht kleur wijkt af of niet toegestaan
-763,20170401,,,1.15.AA,Tankband(en) niet strak gemonteerd
 138,20170401,,,5.*.11,Absorptiecoefficient te hoog
 530,20170401,,,5.*.55,Mistlicht ondeugdelijk bevestigd
 808,20170401,,,1.25.H,Gasleiding/slang langer dan noodzakelijk
@@ -365,7 +355,6 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 076,20170401,,,5.*.9,Brandstofleidingen gescheurd
 129,20170401,,,5.*.11,Voorgeschreven toerental niet in te stellen of wijkt af
 829,20170401,,,BTML.D,Onderdelen komen niet overeen met documentatie (G3/R115)
-795,20170401,,,1.24.D,Fabricage datum flexibele slang ouder dan 2 jaar
 186,20170401,,,5.*.19,Fusee(kogel) te veel speling
 300,20170401,,,5.*.31,Rembekrachtiger werkt niet
 248,20170401,,,5.*.29,Onderdeel stuurinrichting niet geborgd
@@ -377,7 +366,6 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 183,20170401,,,5.*.18,Veerstrop as zit los
 192,20170401,,,5.*.21,Verschil wielbasis tussen links-rechts te groot
 701,20170401,,,-,"Band(en) aanwezig met een profieldiepte van 1,6 t/m 2,5 mm"
-125,20170401,,,5.*.11,EOBD-systeem bevat emissiegerelateerde fouten
 306,20170401,,,5.*.31,Kunststof remleiding geknikt
 717,20170401,,,1.5.A,Onderdeel LPG-installatie ondeugdelijk bevestigd
 022,20170401,,,5.*.1,"Gasinstallatie (gedeeltelijk) aanwezig, niet in register"
@@ -390,13 +378,11 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 285,20170401,,,5.*.31,Bewegingsmogelijkheden remonderdeel beperkt
 420,20170401,,,5.*.47,Oprolmechanisme gordel werkt niet goed
 577,20170401,,,5.*.61,Richtingaanwijzer niet juist aangebracht
-857,20170401,,,TA.4G,Leesbaarheid/bereikbaarheid tachograaf onvoldoende.
 580,20170401,,,5.*.51,Zijrichtingaanwijzers niet zichtbaar
 550,20170401,,,5.*.55,Remlicht glas lichtarmatuur ernstig beschadigd
 627,20170401,,,5.*.66,Trekdriehoek gescheurd
 280,20170401,,,5.*.31,"Onderdeel reminrichting beschadigd, gescheurd of gebroken"
 249,20170401,,,5.*.29,Stuurkogel(huis) door corrosie aangetast
-612,20170401,,,5.*.57,Verlichte transparant(en) niet afzonderlijk geschakeld
 090,20170401,,,5.*.10,LPG-tank heeft deuk(en)
 294,20170401,,,5.*.31,Ernstige luchtlekkage reminrichting
 384,20170401,,,5.*.42,Beschadiging of verkleuring achterruit
@@ -422,7 +408,6 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 255,20170401,,,5.*.29,Onderdeel stuurbekrachtiger  ernstige lekkage
 637,20170401,,,5.*.68,Opwaartse speling pen te groot
 021,20170401,,,5.*.1,Voertuig komt niet overeen met register (geen VIN)
-126,20170401,,,5.*.11,EOBD-waarschuwingsinrichting functioneert niet/niet aanwezig
 737,20170401,,,1.15.E,Beproevingsdatum ouder dan 10 jaar
 304,20170401,,,5.*.31,Remleiding ernstig gecorrodeerd
 656,20170401,,,5.*.69,Speling sluitinrichting schotelkoppeling te groot
@@ -433,7 +418,6 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 477,20170401,,,5.*.55,Achterlicht  asymmetrische plaatsing  t.o.v. midden
 762,20170401,,,1.15.Z,Aantal tankbanden niet juist
 510,20170401,,,5.*.61,Dimlicht niet juist aangebracht
-796,20170401,,,1.24.E,Leiding koper/staal niet trillings-/spanningsvrij bevestigd
 610,20170401,,,5.*.65,Voertuig voorzien van niet toegestane lichten
 590,20170401,,,5.*.51,(Zij-)markeringslichten ontbreken
 345,20170401,,,5.*.37,Automatische afsluiters ontbreken of werken niet goed
@@ -458,14 +442,12 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 560,20170401,,,5.*.53,Remlicht kleur wijkt af of niet toegestaan
 208,20170401,,,5.*.27,"Bandenspanning niet op juiste waarde (> 0,5 bar afwijking)"
 331,20170401,,,5.*.35,Drukmeetpunt ontbreekt of defect
-081,20170401,,,5.*.9,Controle alle brandstoffen niet mogelijk  niet gemeld
 478,20170401,,,5.*.53,Achterlicht kleur wijkt af of niet toegestaan
 419,20170401,,,5.*.47,Blokkering gordel werkt niet (goed)
 371,20170401,,,5.*.39,Vastzetinrichting werkt niet goed
 259,20170401,,,5.*.29,Stuurkogel of -koppeling te veel speling
 706,20170401,,,5.1B.3,Afgedekt onderdeel niet beoordeeld 5.1b.3
 442,20170401,,,5.*.50,Frontbeschermingsinrichting niet goedgekeurd
-127,20170401,,,5.*.11,"EOBD-waarschuwingsinrichting, status niet overeenkomstig uit"
 117,20170401,,,5.*.11,Uitlaatsysteem ondeugdelijk bevestigd
 315,20170401,,,5.*.31,"Rem-, parkeerremkabel gebroken"
 235,20170401,,,5.*.28,Onderdeel gasveersysteem ondeugdelijk (bevestigd)
@@ -489,7 +471,6 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 483,20170401,,,5.*.55,Achterruitrijlicht glas gerepareerd/bewerkt
 199,20170401,,,5.*.25,Wielnaaf ondeugdelijk bevestigd
 353,20170401,,,5.*.38,Remvertraging bedrijfsrem onvoldoende (< 90% >= 50% awet)
-874,20170401,,,TA.5B,Bandenspanning niet juist
 286,20170401,,,5.*.31,Bewegingsmogelijkheden parkeerrem beperkt
 602,20170401,,,5.*.59a,Retroreflectie asymmetrisch t.o.v. het midden
 357,20170401,,,5.*.39,Parkeerrem werkt niet op 2 wielen
@@ -522,7 +503,6 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 265,20170401,,,5.*.29,Hydraulisch besturingssysteem lekt
 848,20170401,,,TA.2B,Installatieplaat voortijdig aangebracht.
 271,20170401,,,5.*.30,Draaikransdelen ingesleten / te veel speling
-731,20170401,,,1.14.C,Niet toegestane onderdelen gemonteerd
 888,20170401,20170402,,APK+F4,"Geen AC4: Stuur-/fuseekogel slijtage kleiner of gelijk 1,0mm"
 283,20170401,,,5.*.31,Remonderdelen te veel gecorrodeerd
 544,20170401,,,5.*.61,Retroreflector niet juist aangebracht
@@ -533,7 +513,6 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 115,20170401,,,5.*.11,Uitlaatsysteem niet gasdicht
 375,20170401,,,5.*.41,Deur sluit niet goed
 185,20170401,,,5.*.19,Fusee(kogel) ondeugdelijk bevestigd
-141,20170401,,,5.*.11,EOBD-systeem bevat emissiegerelateerde fouten
 236,20170401,,,5.*.28,Roestschade onderdeel gasveersysteem
 711,20170401,,,1.8.B,Aanduiding tankinhoud ontbreekt / niet leesbaar
 574,20170401,,,5.*.51,Richtingaanwijzers  aantal niet juist volgens voorschriften
@@ -549,7 +528,6 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 570,20170401,,,5.*.55,Richtingaanwijzers schakelaar ondeugdelijk
 877,20170401,,,TA.5E,Bandenmaat op de aangedreven as wijkt af.
 091,20170401,,,5.*.10,LPG-tank in motorruimte
-852,20170401,,,TA4.2B,Zegelnummer niet juist
 429,20170401,,,5.*.48,Wiel of band niet goed afgeschermd
 266,20170401,,,5.*.29,Slang besturingssysteem beschadigd
 204,20170401,,,5.*.27,Band ernstig beschadigd
@@ -595,7 +573,6 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 516,20170401,,,5.*.56,Dimlicht onjuist afgesteld
 158,20170401,,,5.*.13,Motorsteunrubber doorgescheurd /vulkanisatie geheel los
 347,20170401,,,5.*.37,"Druk in voorraad-/commandoleiding wijkt af (>0,5 bar)"
-143,20170401,,,5.*.11,"EOBD-waarschuwingsinrichting, status niet overeenkomstig uit"
 187,20170401,,,5.*.19,Fuseekogel of fuseekogelhuis vertoont corrosie
 802,20170401,,,1.24.K,Gasleiding/gasslang niet vrij van kriksteun
 210,20170401,,,5.*.27,Bandenspanning niet op juiste waarde
@@ -605,12 +582,10 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 538,20170401,,,5.*.55,Retroreflectoren asymmetrische plaatsing t.o.v. midden
 499,20170401,,,5.*.55,"Dim-, grootlicht  glas lichtarmatuur ernstig beschadigd"
 370,20170401,,,5.*.39,Vastzetinrichting ontbreekt op een niet hefbare as
-136,20170401,,,5.*.11,"Lambdawaarde wijkt af > 0,5 en <=1,5 wettelijke toegestane w"
 558,20170401,,,5.*.51,Remlichten  aantal niet juist volgens voorschriften
 096,20170401,,,5.*.10,Gasdichte kast ontbreekt of ondeugdelijk
 031,20170401,,,5.*.1,Voertuig niet voorzien van juiste kentekenplaten
 316,20170401,,,5.*.31,Remcilinder defect/ondeugdelijk/kans op scheuren
-142,20170401,,,5.*.11,EOBD-waarschuwingsinrichting functioneert niet/niet aanwezig
 519,20170401,,,5.*.56,Dimlicht verblindend (boven nullijn)
 226,20170401,,,5.*.28,Onderdeel veersysteem ondeugdelijk (bevestigd)
 589,20170401,,,5.*.55,(Zij-)markeringslicht werkt niet (goed)
@@ -671,9 +646,7 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 046,20170401,,,5.*.3,Dragende delen misvormd of gescheurd
 892,20170401,20170402,,APK+G4,Adviespunt moet afkeurpunt zijn met gradatie 4
 058,20170401,,,5.*.5,Accu aanhangwagen ondeugdelijk bevestigd
-686,20170401,,,5.*.77,Hulpmiddel voor een rolstoel ondeugdelijk bevestigd
 364,20170401,,,5.*.39,Parkeerrem ontbreekt op een niet hefbare as
-775,20170401,,,1.18.B,Automatische afnameklep op tank onjuist geschakeld
 470,20170401,,,5.*.55,Achterlicht glas lichtarmatuur ernstig beschadigd
 122,20170401,,,5.*.11,CO meer dan wettelijk toegestaan
 197,20170401,,,5.*.24,Wiel of velg ondeugdelijk
@@ -711,14 +684,12 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 709,20170401,,,-,Overmatige olielekkage
 097,20170401,,,5.*.10,Gasvoerende slangen zichtbaar beschadigd
 047,20170401,,,5.*.3,"Dragende delen ernstig misvormd, gescheurd, gebroken"
-730,20170401,,,1.14.B,ECE-certificaat gecombineerde verdamper/afsluiter ontbreekt
 556,20170401,,,5.*.55,Remlicht werkt niet (goed)
 037,20170401,,,5.*.3,Roestschade hoofdbalk
 552,20170401,,,5.*.55,Remlicht lichtoppervlak >25% afgenomen
 469,20170401,,,5.*.55,Achterlicht afgeschermd
 277,20170401,,,5.*.31,Borging remonderdelen ontbreekt
 349,20170401,,,5.*.37,Extra rembediening voor rem aanhangwagen niet toegestaan
-809,20170401,,,1.25.I,LPG-best. mantel verbinding in pers.-/laadruimte ontbreekt
 853,20170401,,,TA.4A,Manipulatie tachograaf aangetroffen.
 367,20170401,,,5.*.40,Losknop werkt niet of blijft in stand lossen staan
 503,20170401,,,5.*.55,"Dim-, grootlicht  schakelaar ondeugdelijk"
@@ -736,7 +707,6 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 587,20170401,,,5.*.55,(Zij-)markeringslicht ondeugdelijk bevestigd
 299,20170401,,,5.*.31,Rembekrachtiger werkt niet goed
 328,20170401,,,5.*.32,Onvoldoende remvloeistof in reservoir
-193,20170401,,,5.*.21,Verschil wielbasis tussen links-rechts meer dan 3cm
 546,20170401,,,5.*.51,Retroreflector (zijkant) aantal niet volgens voorschriften
 284,20170401,,,5.*.31,Rempedaal niet stroef
 298,20170401,,,5.*.31,Luchtlekkage  systeemfunctionaliteit aangetast
@@ -748,7 +718,6 @@ J18,20120401,20170402,9,5.*.48,Gevaar voor losraken deel aan de buitenzijde 5.*.
 027,20170402,,,5.*.1,Kentekenplaat afgeschermd
 883,20170401,20170402,,APK+E,Een onterecht adviespunt
 547,20170401,,,5.*.51,Lijnmarkering niet volgens voorschriften
-137,20170401,,,5.*.11,"Lambdawaarde wijkt af <=0,5 en > 1,5 wettelijke toegestane w"
 207,20170401,,,5.*.27,Band vertoont uitstulping(en)
 440,20170401,,,5.*.49,Stootbalk ondeugdelijk
 288,20170401,,,5.*.31,Rempedaalslag beperkt
@@ -830,7 +799,6 @@ AC1,20120509,,,AC1,"Band(en) aanwezig met een profieldiepte van 1,6 t/m 2,5 mm"
 132,20170401,,,5.*.11,CO% bij verhoogd toerental te hoog  (<=2x toegestane waarde)
 692,20170401,,,5.*.78,Vastzetsysteem niet te bevestigen op bevestigingspunt
 632,20170401,,,5.*.68,Axiale speling trekstang lagering in achterbalk
-685,20170401,,,5.*.77,Hulpmiddel voor een rolstoel ontbreekt
 148,20170401,,,5.*.12a,Elektrische aandrijflijn niet goed afgeschermd
 154,20170401,,,5.*.12a,Onderdeel elektrische aandrijflijn vertoont lekkage
 861,20170401,,,TA.3K,Fabrieksverzegeling digitale tachograaf onjuist.
@@ -839,12 +807,9 @@ AC1,20120509,,,AC1,"Band(en) aanwezig met een profieldiepte van 1,6 t/m 2,5 mm"
 863,20170401,,,TA.4D,Verplicht omhulsel geverkabel niet aanwezig.
 151,20170401,,,5.*.12a,Onderdeel elektrische aandrijflijn niet goed geisoleerd
 849,20170401,,,TA.2D,K-factorsticker niet vermeld of aangebracht(analoog).
-872,20170401,,,TA.4L,Werking signaalfunctie niet juist.
 791,20170401,,,1.23.J,Bevestiging verbindingsslang niet gasdicht aangesloten
 011,20170401,,,nl08,Beoordelen afgedekt onderdeel niet mogelijk  niet gemeld
-026,20170401,,,LER.D,Identificatienummer niet (goed) leesbaar
 150,20170401,,,5.*.12a,Onderdeel elektrische aandrijflijn beschadigd
-032,20170401,,,LER.A,Kentekenplaten komen niet overeen met kentekenregister
 645,20170401,,,5.*.67,Opwaartse speling pen te groot
 078,20170401,,,5.*.9,Brandstoflekkage  ernstig
 054,20170401,,,5.*.4,"Bovenbouw ondeugdelijk bevestigd, sterkte  >50 % afgenomen"
@@ -854,4 +819,51 @@ AC1,20120509,,,AC1,"Band(en) aanwezig met een profieldiepte van 1,6 t/m 2,5 mm"
 005,20170401,,,nl02,Goedkeuringsdocument ontbreekt bij taxi of OV-voertuig
 260,20170401,,,5.*.29,"Stuurkogel te veel speling, kans op losraken"
 662,20170401,,,5.*.69,1 van meerdere bevestigingsbouten/moeren zitten los
-867,20170401,,,TA8A,Testregistraties wijken af
+10A,20170401,20170402,,5.*.55,Lichtoppervlak >25% afgenomen (bij meerdere lichtbronnen)
+03A,20170401,20170402,,5.*.51,Voorgeschreven licht(en) ontbreekt (ontbreken)
+01A,20170401,20170402,,5.*.51,Aantal lichten niet juist volgens voorschrift
+05A,20170401,20170402,,5.*.55,Verpl. licht werkt niet (goed) (geen richtingaanw./remlicht)
+16A,20170401,20170402,,GR2,Afkeurpunt met gradatie 2
+17A,20170401,20170402,,GR3,Afkeurpunt met gradatie 3
+14A,20170401,20170402,,5.*.61,Lichten/lichtsignalen/retroreflectie niet juist aangebracht
+07A,20170401,20170402,,5.*.55,Glas van lichtarmatuur ernstig beschadigd
+08A,20170401,20170402,,5.*.55,Lichten en/of retroreflectie ondeugdelijk bevestigd
+18A,20170401,20170402,,GR4,Afkeurpunt met gradatie 4
+02A,20170401,20170402,,5.*.51,Plaats licht(en) wijkt (wijken) af
+11A,20170401,20170402,,5.*.55,Asymmetrische plaatsing lichten/retroreflectie t.o.v. midden
+04A,20170401,20170402,,5.*.53,Kleur lichten wijkt af/niet toegestaan
+09A,20170401,20170402,,5.*.55,Glas gerepareerd/bewerkt
+12A,20170401,20170402,,5.*.55,Schakelaar ondeugdelijk
+669,20170401,,,5.*.70,Roestschade achtertraverse/profielen (>25%)
+15A,20170401,20170402,,GR1,Afkeurpunt met gradatie 1
+13A,20170401,20170402,,5.*.55,Licht -/retroreflector afgeschermd
+06A,20170401,20170402,,5.*.55,Lichten niet van gelijke grootte/sterkte/kleur
+278,20170401,,,5.*.31,"Hoofdcilinder werkt niet juist/zit los, rem werkt nog"
+789,20170401,,,1.23.H,Gasdichte kast is niet gasdicht
+745,20170401,,,1.15.M,Tank niet vrij van metalen delen
+680,20170401,,,5.*.76,Kabel noodhamertje niet lang genoeg
+142,20170401,20180520,,5.*.11,EOBD-waarschuwingsinrichting functioneert niet/niet aanwezig
+687,20170401,20180520,,5.*.77,Lift functioneert niet
+141,20170401,20180520,,5.*.11,EOBD-systeem bevat emissiegerelateerde fouten
+143,20170401,20180520,,5.*.11,"EOBD-waarschuwingsinrichting, status niet overeenkomstig uit"
+126,20170401,20180520,,5.*.11,EOBD-waarschuwingsinrichting functioneert niet/niet aanwezig
+686,20170401,20180520,,5.*.77,Hulpmiddel voor een rolstoel ondeugdelijk bevestigd
+125,20170401,20180520,,5.*.11,EOBD-systeem bevat emissiegerelateerde fouten
+127,20170401,20180520,,5.*.11,"EOBD-waarschuwingsinrichting, status niet overeenkomstig uit"
+685,20170401,20180520,,5.*.77,Hulpmiddel voor een rolstoel ontbreekt
+612,20170401,20180520,,5.*.57,Verlichte transparant(en) niet afzonderlijk geschakeld
+613,20170401,20180520,,5.*.57,Verlichte transparant(en) voldoet niet aan maximale afmeting
+107,20170401,20180520,,5.*.10a,Automatische tankafsluiter werkt niet (goed)
+081,20170401,20180520,,5.*.9,Controle alle brandstoffen niet mogelijk  niet gemeld
+193,20170401,20180520,,5.*.21,Verschil wielbasis tussen links-rechts meer dan 3cm
+110,20170401,20180520,,5.*.10a,Niet voorzien van automatische tankafsluiter
+106,20170401,,,5.*.10a,Andere verbruikers op CNG-installatie aangesloten
+881,20170401,,,TA.5F,Instelling testapparatuur onjuist.
+873,20170401,,,TA.4M,Werking tachograaf niet juist.
+795,20170401,,,1.24.D,Fabricage datum flexibele slang ouder dan 2 jaar
+714,20170401,,,1.8.A,Identificatie LPG-onderdeel niet leesbaar / controleerbaar
+857,20170401,,,TA.3F,Tachograaf bevat foutcode(s) t.a.v. van de chauffeur.
+874,20170401,,,TA.5B,Bandenspanning niet juist.
+867,20170401,,,TA.4G,Leesbaarheid/bereikbaarheid tachograaf onvoldoende.
+872,20170401,,,TA.4L,Werking signaalfuncties niet juist.
+852,20170401,,,TA.2C,Installatieplaat niet juist ingevuld/voldoet niet.
